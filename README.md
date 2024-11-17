@@ -1,1 +1,1 @@
-This contains Covid detection by analying CT scan reports using DenseNet and Resnet18 CNN architectures 
+Covid detection by analyzing CT scan reports using DenseNet and ResNet18 CNN architectures 
